@@ -1,0 +1,8 @@
+{
+    "vertexFile" : "materials/shaders/invisible.vs",
+    "fragmentFile" : "materials/shaders/invisible.fs",
+    "primitiveType" : "TRIANGLES",
+    "params" : {
+    },
+    "defines": []
+}

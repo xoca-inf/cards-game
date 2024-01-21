@@ -1,0 +1,143 @@
+{
+  "settingsVec2": [
+    {
+      "name": "testVec2",
+      "value": {
+        "x": 0.0,
+        "y": 0.0
+      }
+    }
+  ],
+
+  "settingsVec3": [
+    {
+      "name": "testVec3",
+      "value": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    }
+  ],
+
+  "settingsVec4": [
+    {
+      "name": "testVec4",
+      "value": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      }
+    }
+  ],
+
+  "settingsFloat": [
+    {
+      "name": "sound0",
+      "value": 0.1
+    },
+    {
+      "name": "sound1",
+      "value": 0.1
+    },
+    {
+      "name": "sound2",
+      "value": 0.1
+    },
+    {
+      "name": "moveTweenSpeed",
+      "value": 2.0
+    },
+    {
+      "name": "flipTweenSpeed",
+      "value": 5.0
+    },
+    {
+      "name": "addTimerTask_0",
+      "value": 3.5
+    },
+    {
+      "name": "addTimerTask_1",
+      "value": 2.5
+    },
+    {
+      "name": "addTimerTask_2",
+      "value": 2.5
+    },
+    {
+      "name": "addTimerTask_3",
+      "value": 2.5
+    },
+    {
+      "name": "addTimerTask_4",
+      "value": 2.5
+    },
+    {
+      "name": "cardPlayerDelay",
+      "value": 1.0
+    },
+    {
+      "name": "cardPlayerStartflipTweenSpeed",
+      "value": 5.0
+    },
+    {
+      "name": "cardPlayermoveTweenSpeed",
+      "value": 8.0
+    },
+    {
+      "name": "cardPlayerStartDelaySeconds",
+      "value": 0.1
+    },
+    {
+      "name": "toTrashFlipTweenSpeed",
+      "value": 5.0
+    },
+    {
+      "name": "toTrashFlipTweenTimeout",
+      "value": 0.0
+    },
+    {
+      "name": "toTrashmoveTweenSpeed",
+      "value": 3.5
+    },
+    {
+      "name": "toTrashMoveTweenTimeout",
+      "value": 3.1
+    },
+    {
+      "name": "particleLifeTime",
+      "value": 0.2
+    },
+    {
+      "name": "scaleTweenTimeout_0",
+      "value": 2.0
+    },
+    {
+      "name": "scaleTweenSpeed_0",
+      "value": 1.0
+    },
+    {
+      "name": "flipTweenTimeout_0",
+      "value": 1.0
+    },
+    {
+      "name": "moveTweenSpeed_0",
+      "value": 2.0
+    }
+  ],
+
+  "settingsString": [
+    {
+      "name": "defString",
+      "value": "string"
+    }
+  ],
+
+  "settingsInt": [
+    {
+      "name": "emitterRenderOrder",
+      "value": 100
+    }
+  ]
+}

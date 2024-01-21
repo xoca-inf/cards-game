@@ -1,0 +1,21 @@
+{
+    "vertexFile" : "materials/shaders/sprite.vs",
+    "fragmentFile" : "materials/shaders/acceleration.fs",
+	"blending" : true,
+    "params" : {
+        "color": {
+            "type": "VEC4",
+            "data": { 
+                "x": 1,
+                "y": 1.0,
+                "z": 1, 
+                "w": 1.0
+            }
+        },
+        "percent": {
+            "type": "FLOAT",
+            "data": 1.0
+        }
+    },
+    "defines": []
+}

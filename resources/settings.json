@@ -1,0 +1,72 @@
+{
+	"portrait" : 
+	{
+		"vector2" : 
+		{
+			"aspect" : {"x": 9, "y": 16},
+			"resolution" : {"x": 1080, "y": 1920}
+		}
+	},
+	"landscape" : 
+	{
+		"vector2" : 
+		{
+			"aspect" : {"x": 16, "y": 9},
+			"resolution" : {"x": 1920, "y": 1080}
+		}
+	},
+    "int" : 
+	{
+		"is_aspect_from_orientation": 1,
+		"is_resolution_from_orientation": 1,
+		"emitterRenderOrder": 100
+    },
+    "float" : 
+	{
+		"particleOffsetZ": -19.9,
+		"particleLifeTime": 0.2,
+		"blurMultiplier": 3.5,
+		"blackoutRenderOrder": 950.0,
+        "DefaultZOffset" : -19.8891,
+        "DefaultCardZOffset" : -19.889,
+        "PicksResetFlipTimeout" : -19.889,
+        "PicksResetFlipSpeed" : -19.889,
+        "PicksResetFlipDelay" : -19.889,
+        "PicksResetMoveTimeout" : -19.889,
+        "PicksResetMoveSpeed" : -19.889,
+        "PicksResetMoveDelay" : -19.889,
+        "PicksResetScaleTimeout" : -19.889,
+        "PicksResetScaleSpeed" : -19.889,
+        "PicksResetScaleDelay" : -19.889
+	},
+	"string" : 
+	{
+		"tmp1" : "portrait"
+	},
+	"strings" : 
+	{
+		"tmp1" : ["landscape", "portrait"]
+	},
+    "vector2" : 
+	{
+		"tmp1" : {"x": 9, "y": 16},
+		"tmp2" : {"x": 1080, "y": 1920}
+	},
+    "vector3" :	
+	{
+		"blackoutSize" : {
+			"x": 0.5, 
+			"y": 0.5, 
+			"z": 0.0001
+		},
+		"blackoutPos" : {
+			"x": 0.01, 
+			"y": 0.01, 
+			"z": 0.0
+		}
+	},
+	"vector4" :	
+	{
+        "clearColor" : {"x":  0.1, "y":  0.5, "z": 0.3, "w": 1.0}
+	}
+}

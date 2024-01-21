@@ -1,0 +1,32 @@
+{
+    "buttons" : [
+    ],
+
+    "labels" : [
+    ],
+
+    "images" : [
+        {
+            "landscape": {
+                "pivot" : "CenterCenter",
+                "offset": { "x": 0.0, "y": 0.002 }
+            },
+            "portrait": {
+                "pivot" : "CenterCenter",
+                "offset": { "x": 0.02, "y": 0.002 }
+            },
+            "name": "spades_beat_everything",
+            "material" : "SpriteMaterial",
+            "texture": "spades_beat_everything",
+            "size": {
+                "x": 0.1,
+                "y": 0.025
+            },
+            "renderOrder": 1005
+        }
+    ],
+
+    "imageButtons" :
+    [
+    ]
+}

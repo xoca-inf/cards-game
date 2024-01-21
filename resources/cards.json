@@ -1,0 +1,478 @@
+{
+    "StartingDeck" : [
+        "King_Of_Hearts", 
+        "Ten_Of_Clubs", 
+        "Seven_Of_Spades", 
+        "Five_Of_Hearts", 
+        "jack_of_clubs"
+    ],
+    "TurnPicks1" : [
+        {
+            "landscape": {
+                "pivot" : "TopLeft",
+                "offset": {
+                    "x": 0.068,
+                    "y": -0.025,
+                    "z": 0.015
+                }
+            },
+            "portrait": {
+                "pivot" : "TopLeft",
+                "offset": {
+                    "x": 0.025,
+                    "y": -0.055,
+                    "z": 0.015
+                }
+            },
+            "frontTexture": "Nine_Of_Clubs_2x",
+            "playerAwatar": "awatar_01",
+            "cardsTrash": "cards_trash_bin",
+            "backTexture": "card_back_1",
+            "rotation": {
+                "x": 0.0,
+                "y": 3.1415926535897932384626433832795,
+                "z": 0.0
+            },
+            "renderOrder": 50
+        },
+        {
+            "landscape": {
+                "pivot" : "TopCenter",
+                "offset": {
+                    "x": 0.0,
+                    "y": -0.015,
+                    "z": 0.015
+                }
+            },
+            "portrait": {
+                "pivot" : "TopCenter",
+                "offset": {
+                    "x": 0.0,
+                    "y": -0.0455,
+                    "z": 0.015
+                }
+            },
+            "frontTexture": "Two_Of_Clubs",
+            "playerAwatar": "awatar_03",
+            "cardsTrash": "cards_trash_bin",
+            "backTexture": "card_back_1",
+            "rotation": {
+                "x": 0.0,
+                "y": 3.1415926535897932384626433832795,
+                "z": 0.0
+            },
+            "renderOrder": 50
+        },
+        {
+            "landscape": {
+                "pivot" : "TopRight",
+                "offset": {
+                    "x": -0.068,
+                    "y": -0.025,
+                    "z": 0.015
+                }
+            },
+            "portrait": {
+                "pivot" : "TopRight",
+                "offset": {
+                    "x": -0.025,
+                    "y": -0.055,
+                    "z": 0.015
+                }
+            },
+            "frontTexture": "Four_Of_Clubs",
+            "playerAwatar": "awatar_02",
+            "cardsTrash": "cards_trash_bin",
+            "backTexture": "card_back_1",
+            "rotation": {
+                "x": 0.0,
+                "y": 3.1415926535897932384626433832795,
+                "z": 0.0
+            },
+            "renderOrder": 50
+        }
+    ],
+    "TurnPicks2" : [
+        {
+            "landscape": {
+                "pivot" : "TopLeft",
+                "offset": {
+                    "x": 0.068,
+                    "y": -0.025,
+                    "z": 0.015
+                }
+            },
+            "portrait": {
+                "pivot" : "TopLeft",
+                "offset": {
+                    "x": 0.025,
+                    "y": -0.055,
+                    "z": 0.015
+                }
+            },
+            "frontTexture": "Two_Of_Hearts",
+            "playerAwatar": "awatar_01",
+            "cardsTrash": "cards_trash_bin_2",
+            "backTexture": "card_back_1",
+            "rotation": {
+                "x": 0.0,
+                "y": 3.1415926535897932384626433832795,
+                "z": 0.0
+            },
+            "renderOrder": 50
+        },
+        {
+            "landscape": {
+                "pivot" : "TopCenter",
+                "offset": {
+                    "x": 0.0,
+                    "y": -0.015,
+                    "z": 0.015
+                }
+            },
+            "portrait": {
+                "pivot" : "TopCenter",
+                "offset": {
+                    "x": 0.0,
+                    "y": -0.0455,
+                    "z": 0.015
+                }
+            },
+            "frontTexture": "Ace_Of_Hearts",
+            "playerAwatar": "awatar_03",
+            "cardsTrash": "cards_trash_bin_2",
+            "backTexture": "card_back_1",
+            "rotation": {
+                "x": 0.0,
+                "y": 3.1415926535897932384626433832795,
+                "z": 0.0
+            },
+            "renderOrder": 50
+        },
+        {
+            "landscape": {
+                "pivot" : "TopRight",
+                "offset": {
+                    "x": -0.068,
+                    "y": -0.025,
+                    "z": 0.015
+                }
+            },
+            "portrait": {
+                "pivot" : "TopRight",
+                "offset": {
+                    "x": -0.025,
+                    "y": -0.055,
+                    "z": 0.015
+                }
+            },
+            "frontTexture": "Queen_Of_Hearts",
+            "playerAwatar": "awatar_02",
+            "cardsTrash": "cards_trash_bin_2",
+            "backTexture": "card_back_1",
+            "rotation": {
+                "x": 0.0,
+                "y": 3.1415926535897932384626433832795,
+                "z": 0.0
+            },
+            "renderOrder": 50
+        }
+    ],
+    "TurnPicks3" : [
+        {
+            "landscape": {
+                "pivot" : "TopLeft",
+                "offset": {
+                    "x": 0.068,
+                    "y": -0.025,
+                    "z": 0.015
+                }
+            },
+            "portrait": {
+                "pivot" : "TopLeft",
+                "offset": {
+                    "x": 0.025,
+                    "y": -0.055,
+                    "z": 0.015
+                }
+            },
+            "frontTexture": "King_Of_Diamonds",
+            "playerAwatar": "awatar_01",
+            "cardsTrash": "cards_trash_bin",
+            "backTexture": "card_back_1",
+            "rotation": {
+                "x": 0.0,
+                "y": 3.1415926535897932384626433832795,
+                "z": 0.0
+            },
+            "renderOrder": 50
+        },
+        {
+            "landscape": {
+                "pivot" : "TopCenter",
+                "offset": {
+                    "x": 0.0,
+                    "y": -0.015,
+                    "z": 0.015
+                }
+            },
+            "portrait": {
+                "pivot" : "TopCenter",
+                "offset": {
+                    "x": 0.0,
+                    "y": -0.0455,
+                    "z": 0.015
+                }
+            },
+            "frontTexture": "Ace_Of_Diamonds",
+            "playerAwatar": "awatar_03",
+            "cardsTrash": "cards_trash_bin",
+            "backTexture": "card_back_1",
+            "rotation": {
+                "x": 0.0,
+                "y": 3.1415926535897932384626433832795,
+                "z": 0.0
+            },
+            "renderOrder": 50
+        },
+        {
+            "landscape": {
+                "pivot" : "TopRight",
+                "offset": {
+                    "x": -0.068,
+                    "y": -0.025,
+                    "z": 0.015
+                }
+            },
+            "portrait": {
+                "pivot" : "TopRight",
+                "offset": {
+                    "x": -0.025,
+                    "y": -0.055,
+                    "z": 0.015
+                }
+            },
+            "frontTexture": "Four_Of_Hearts",
+            "playerAwatar": "awatar_02",
+            "cardsTrash": "cards_trash_bin",
+            "backTexture": "card_back_1",
+            "rotation": {
+                "x": 0.0,
+                "y": 3.1415926535897932384626433832795,
+                "z": 0.0
+            },
+            "renderOrder": 50
+        }
+    ],
+    "TurnPicks4" : [
+        {
+            "landscape": {
+                "pivot" : "TopLeft",
+                "offset": {
+                    "x": 0.068,
+                    "y": -0.025,
+                    "z": 0.015
+                }
+            },
+            "portrait": {
+                "pivot" : "TopLeft",
+                "offset": {
+                    "x": 0.025,
+                    "y": -0.055,
+                    "z": 0.015
+                }
+            },
+            "frontTexture": "Six_Of_Clubs",
+            "playerAwatar": "awatar_01",
+            "cardsTrash": "cards_trash_bin_2",
+            "backTexture": "card_back_1",
+            "rotation": {
+                "x": 0.0,
+                "y": 3.1415926535897932384626433832795,
+                "z": 0.0
+            },
+            "renderOrder": 50
+        },
+        {
+            "landscape": {
+                "pivot" : "TopCenter",
+                "offset": {
+                    "x": 0.0,
+                    "y": -0.015,
+                    "z": 0.015
+                }
+            },
+            "portrait": {
+                "pivot" : "TopCenter",
+                "offset": {
+                    "x": 0.0,
+                    "y": -0.0455,
+                    "z": 0.015
+                }
+            },
+            "frontTexture": "Queen_Of_Clubs",
+            "playerAwatar": "awatar_03",
+            "cardsTrash": "cards_trash_bin_2",
+            "backTexture": "card_back_1",
+            "rotation": {
+                "x": 0.0,
+                "y": 3.1415926535897932384626433832795,
+                "z": 0.0
+            },
+            "renderOrder": 50
+        },
+        {
+            "landscape": {
+                "pivot" : "TopRight",
+                "offset": {
+                    "x": -0.068,
+                    "y": -0.025,
+                    "z": 0.015
+                }
+            },
+            "portrait": {
+                "pivot" : "TopRight",
+                "offset": {
+                    "x": -0.025,
+                    "y": -0.055,
+                    "z": 0.015
+                }
+            },
+            "frontTexture": "Nine_Of_Hearts",
+            "playerAwatar": "awatar_02",
+            "cardsTrash": "cards_trash_bin_2",
+            "backTexture": "card_back_1",
+            "rotation": {
+                "x": 0.0,
+                "y": 3.1415926535897932384626433832795,
+                "z": 0.0
+            },
+            "renderOrder": 50
+        }
+    ],
+    "TurnPicks5" : [
+        {
+            "landscape": {
+                "pivot" : "TopLeft",
+                "offset": {
+                    "x": 0.068,
+                    "y": -0.025,
+                    "z": 0.015
+                }
+            },
+            "portrait": {
+                "pivot" : "TopLeft",
+                "offset": {
+                    "x": 0.025,
+                    "y": -0.055,
+                    "z": 0.015
+                }
+            },
+            "frontTexture": "Seven_Of_Hearts",
+            "playerAwatar": "awatar_01",
+            "cardsTrash": "cards_trash_bin",
+            "backTexture": "card_back_1",
+            "rotation": {
+                "x": 0.0,
+                "y": 3.1415926535897932384626433832795,
+                "z": 0.0
+            },
+            "renderOrder": 50
+        },
+        {
+            "landscape": {
+                "pivot" : "TopCenter",
+                "offset": {
+                    "x": 0.0,
+                    "y": -0.015,
+                    "z": 0.015
+                }
+            },
+            "portrait": {
+                "pivot" : "TopCenter",
+                "offset": {
+                    "x": 0.0,
+                    "y": -0.0455,
+                    "z": 0.015
+                }
+            },
+            "frontTexture": "Three_Of_Clubs",
+            "playerAwatar": "awatar_03",
+            "cardsTrash": "cards_trash_bin",
+            "backTexture": "card_back_1",
+            "rotation": {
+                "x": 0.0,
+                "y": 3.1415926535897932384626433832795,
+                "z": 0.0
+            },
+            "renderOrder": 50
+        },
+        {
+            "landscape": {
+                "pivot" : "TopRight",
+                "offset": {
+                    "x": -0.068,
+                    "y": -0.025,
+                    "z": 0.015
+                }
+            },
+            "portrait": {
+                "pivot" : "TopRight",
+                "offset": {
+                    "x": -0.025,
+                    "y": -0.055,
+                    "z": 0.015
+                }
+            },
+            "frontTexture": "Jack_Of_Hearts",
+            "playerAwatar": "awatar_02",
+            "cardsTrash": "cards_trash_bin",
+            "backTexture": "card_back_1",
+            "rotation": {
+                "x": 0.0,
+                "y": 3.1415926535897932384626433832795,
+                "z": 0.0
+            },
+            "renderOrder": 50
+        }
+    ],
+    "DefaultCardTemplate" : 
+    {
+        "landscape": {
+            "pivot" : "BottomCenter",
+            "size": {
+                "x": 0.0195,
+                "y": 0.027,
+                "z": 0.0001
+            },
+            "offset": {
+                "x": 0.0,
+                "y": 0.012,
+                "z": 0.0
+            }
+        },
+        "portrait": {
+            "pivot" : "BottomCenter",
+            "size": {
+                "x": 0.0252,
+                "y": 0.035,
+                "z": 0.0001
+            },
+            "offset": {
+                "x": 0.0,
+                "y": 0.028,
+                "z": 0.0
+            }
+        },
+        "frontTexture": "Ace_Of_Hearts",
+        "playerAwatar": "awatar_03",
+        "cardsTrash": "cards_trash_bin",
+        "backTexture": "card_back_1",
+        "rotation": {
+            "x": 0.0,
+            "y": 3.1415926535897932384626433832795,
+            "z": 0.0
+        },
+        "renderOrder": 0
+    }
+}

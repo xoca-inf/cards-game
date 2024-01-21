@@ -1,0 +1,31 @@
+{
+    "buttons" : [
+    ],
+
+    "labels" : [
+    ],
+
+    "images" : [
+        {
+            "pivot" : "BottomCenter",
+            "landscape": {
+                "offset": { "x": 0.0, "y": 0.01 }
+            },
+            "portrait": {
+                "offset": { "x": 0.0, "y": 0.02 }
+            },
+            "name": "loading_1",
+            "material" : "SpriteMaterial",
+            "texture": "loading",
+            "size": {
+                "x": 0.1,
+                "y": 0.025
+            },
+            "renderOrder": 101
+        }
+    ],
+
+    "imageButtons" :
+    [
+    ]
+}

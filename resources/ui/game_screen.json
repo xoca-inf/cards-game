@@ -1,0 +1,321 @@
+{
+    "buttons" : [
+    ],
+
+    "labels" : [
+    ],
+
+    "images" : [
+        {
+            "landscape": {
+                "pivot" : "TopLeft",
+                "offset": { "x": 0.02, "y": -0.018 }
+            },
+            "portrait": {
+                "pivot" : "TopLeft",
+                "offset": { "x": 0.02, "y": -0.018 }
+            },
+            "name": "awatar_01",
+            "material" : "SpriteMaterial",
+            "texture": "awatar_01",
+            "size": {
+                "x": 0.03,
+                "y": 0.03
+            },
+            "renderOrder": 1
+        },
+        {
+            "landscape": {
+                "pivot" : "BottomRight",
+                "offset": { "x": -0.02, "y": 0.04 }
+            },
+            "portrait": {
+                "pivot" : "TopRight",
+                "offset": { "x": -0.02, "y": -0.018 }
+            },
+            "name": "awatar_02",
+            "material" : "SpriteMaterial",
+            "texture": "awatar_02",
+            "size": {
+                "x": 0.03,
+                "y": 0.03
+            },
+            "renderOrder": 3
+        },
+        {
+            "landscape": {
+                "pivot" : "TopRight",
+                "offset": { "x": -0.02, "y": -0.018 }
+            },
+            "portrait": {
+                "pivot" : "TopCenter",
+                "offset": { "x": 0.0, "y": -0.01 }
+            },
+            "name": "awatar_03",
+            "material" : "SpriteMaterial",
+            "texture": "awatar_03",
+            "size": {
+                "x": 0.03,
+                "y": 0.03
+            },
+            "renderOrder": 2
+        },
+        {
+            "landscape": {
+                "pivot" : "TopRight",
+                "offset": { "x": -0.02, "y": -0.018 }
+            },
+            "portrait": {
+                "pivot" : "TopCenter",
+                "offset": { "x": 0.0, "y": -0.01 }
+            },
+            "name": "awatar_03(2)",
+            "material" : "SpriteMaterial",
+            "texture": "awatar_03(2)",
+            "size": {
+                "x": 0.03,
+                "y": 0.03
+            },
+            "renderOrder": 2
+        },
+        {
+            "landscape": {
+                "pivot" : "BottomLeft",
+                "offset": { "x": 0.02, "y": 0.04 }
+            },
+            "portrait": {
+                "pivot" : "BottomLeft",
+                "offset": { "x": 0.02, "y": 0.088 }
+            },
+            "name": "awatar_04",
+            "material" : "SpriteMaterial",
+            "texture": "awatar_04",
+            "size": {
+                "x": 0.03,
+                "y": 0.03
+            },
+            "renderOrder": 5
+        },
+        {
+            "landscape": {
+                "pivot" : "BottomLeft",
+                "offset": { "x": 0.02, "y": 0.04 }
+            },
+            "portrait": {
+                "pivot" : "BottomLeft",
+                "offset": { "x": 0.02, "y": 0.088 }
+            },
+            "name": "awatar_04(2)",
+            "material" : "SpriteMaterial",
+            "texture": "awatar_04(2)",
+            "size": {
+                "x": 0.03,
+                "y": 0.03
+            },
+            "renderOrder": 5
+        },
+        {
+            "landscape": {
+                "pivot" : "BottomLeft",
+                "offset": { "x": 0.02, "y": 0.04 }
+            },
+            "portrait": {
+                "pivot" : "BottomLeft",
+                "offset": { "x": 0.02, "y": 0.088 }
+            },
+            "name": "awatar_04(3)",
+            "material" : "SpriteMaterial",
+            "texture": "awatar_04(3)",
+            "size": {
+                "x": 0.03,
+                "y": 0.03
+            },
+            "renderOrder": 5
+        },
+        {
+            "pivot" : "BottomCenter",
+            "landscape": {
+                "offset": { "x": 0.035, "y": 0.027 }
+            },
+            "portrait": {
+                "offset": { "x": 0.035, "y": 0.027 }
+            },
+            "name": "pointy_hand",
+            "material" : "SpriteMaterial",
+            "texture": "icn_hand_512",
+            "size": {
+                "x": 0.03,
+                "y": 0.03
+            },
+            "renderOrder": 101
+        },
+        {
+            "landscape": {
+                "pivot" : "CenterCenter",
+                "offset": { "x": 0.0, "y": 0.005 }
+            },
+            "portrait": {
+                "pivot" : "TopCenter",
+                "offset": { "x": 0.0, "y": -0.065 }
+            },
+            "name": "got_it",
+            "material" : "SpriteMaterial",
+            "texture": "got_it",
+            "size": {
+                "x": 0.1,
+                "y": 0.05
+            },
+            "renderOrder": 1003
+        },
+        {
+            "landscape": {
+                "pivot" : "CenterCenter",
+                "offset": { "x": 0.0, "y": 0.01 }
+            },
+            "portrait": {
+                "pivot" : "CenterCenter",
+                "offset": { "x": 0.0, "y": 0.02 }
+            },
+            "name": "rays_blend",
+            "material" : "SpriteMaterial",
+            "texture": "rays_blend",
+            "size": {
+                "x": 0.09,
+                "y": 0.09
+            },
+            "renderOrder": 1006
+        },
+        {
+            "landscape": {
+                "pivot" : "CenterCenter",
+                "offset": { "x": 0.0, "y": 0.01 },
+                "size": {
+                    "x": 0.07,
+                    "y": 0.07
+                }
+            },
+            "portrait": {
+                "pivot" : "CenterCenter",
+                "offset": { "x": 0.0, "y": 0.02 },
+                "size": {
+                    "x": 0.09,
+                    "y": 0.09
+                }
+            },
+            "name": "spades",
+            "material" : "SpriteMaterial",
+            "texture": "spades",
+            "renderOrder": 1007
+        },
+        {
+            "landscape": {
+                "pivot" : "CenterCenter",
+                "offset": { "x": 0.0, "y": -0.015 }
+            },
+            "portrait": {
+                "pivot" : "CenterCenter",
+                "offset": { "x": 0.02, "y": -0.02 }
+            },
+            "name": "spades_broken",
+            "material" : "SpriteMaterial",
+            "texture": "spades_broken",
+            "size": {
+                "x": 0.08,
+                "y": 0.02
+            },
+            "renderOrder": 1008
+        },
+        {
+            "landscape": {
+                "pivot" : "BottomCenter",
+                "offset": { "x": 0.0, "y": 0.03 }
+            },
+            "portrait": {
+                "pivot" : "BottomCenter",
+                "offset": { "x": 0.0, "y": 0.03 }
+            },
+            "name": "i_win",
+            "material" : "SpriteMaterial",
+            "texture": "i_win",
+            "size": {
+                "x": 0.08,
+                "y": 0.02
+            },
+            "renderOrder": 1009
+        },
+        {
+            "landscape": {
+                "pivot" : "CenterCenter",
+                "offset": { "x": 0.0, "y": -0.015 }
+            },
+            "portrait": {
+                "pivot" : "CenterCenter",
+                "offset": { "x": 0.02, "y": -0.02 }
+            },
+            "name": "partner_wins",
+            "material" : "SpriteMaterial",
+            "texture": "partner_wins",
+            "size": {
+                "x": 0.08,
+                "y": 0.02
+            },
+            "renderOrder": 1010
+        },
+        {
+            "landscape": {
+                "pivot" : "TopRight",
+                "offset": { "x": -0.02, "y": -0.018 }
+            },
+            "portrait": {
+                "pivot" : "TopCenter",
+                "offset": { "x": 0.0, "y": -0.01 }
+            },
+            "name": "cards_trash_bin_2",
+            "material" : "SpriteMaterial",
+            "texture": "1px",
+          "size": {
+            "x": 0.00,
+            "y": 0.00
+          },
+          "renderOrder": 1
+        },
+        {
+            "landscape": {
+                "pivot" : "BottomLeft",
+                "offset": { "x": 0.02, "y": 0.04 }
+            },
+            "portrait": {
+                "pivot" : "BottomLeft",
+                "offset": { "x": 0.02, "y": 0.088 }
+            },
+            "name": "cards_trash_bin",
+            "material" : "SpriteMaterial",
+            "texture": "1px",
+            "size": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "renderOrder": 1
+        }
+    ],
+
+    "imageButtons" :
+    [
+        {
+            "landscape": {
+                "pivot" : "BottomCenter",
+                "offset": { "x": 0, "y": 0.0015 },
+                "size": {"x": 0.045,  "y": 0.012 }
+            },
+            "portrait": {
+                "pivot" : "BottomCenter",
+                "offset": { "x": 0, "y": 0.01 },
+                "size": {"x": 0.08,  "y": 0.02 }
+            },
+            "name" : "GameDownloadBtn",
+            "material" : "SpriteMaterial",
+            "texture" : "download_btn_fix",
+            "renderOrder": 101
+        }
+    ]
+}

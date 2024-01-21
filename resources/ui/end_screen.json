@@ -1,0 +1,48 @@
+{
+    "buttons" : [
+    ],
+
+    "labels" : [
+    ],
+
+    "images" : [
+    ],
+
+    "imageButtons" :
+    [
+        {
+            "landscape": {
+                "pivot" : "BottomCenter",
+                "offset": { "x": 0, "y": 0.005 },
+                "size": {"x": 0.06,  "y": 0.015 }
+            },
+            "portrait": {
+                "pivot" : "BottomCenter",
+                "offset": { "x": 0, "y": 0.04 },
+                "size": {"x": 0.1,  "y": 0.025 }
+            },
+            "name" : "EndDownloadBtn",
+            "material" : "SpriteMaterial",
+            "texture" : "download_btn_fix",
+            "renderOrder": 101
+        },
+        {
+            "landscape": {
+                "pivot" : "CenterCenter",
+                "offset": { "x": 0.0, "y": -0.037 }
+            },
+            "portrait": {
+                "pivot" : "CenterCenter",
+                "offset": { "x": 0.0, "y": -0.02 }
+            },
+            "name": "no_in_app_purchases",
+            "material" : "SpriteMaterial",
+            "texture": "no_in_app_purchases",
+            "size": {
+                "x": 0.1,
+                "y": 0.025
+            },
+            "renderOrder": 1005
+        }
+    ]
+}

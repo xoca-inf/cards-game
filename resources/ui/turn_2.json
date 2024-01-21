@@ -1,0 +1,32 @@
+{
+    "buttons" : [
+    ],
+
+    "labels" : [
+    ],
+
+    "images" : [
+        {
+            "landscape": {
+                "pivot" : "CenterCenter",
+                "offset": { "x": 0.0, "y": 0.002 }
+            },
+            "portrait": {
+                "pivot" : "CenterCenter",
+                "offset": { "x": 0.02, "y": 0.002 }
+            },
+            "name": "start_with_smaller_card",
+            "material" : "SpriteMaterial",
+            "texture": "start_with_smaller_card",
+            "size": {
+                "x": 0.1,
+                "y": 0.025
+            },
+            "renderOrder": 1004
+        }
+    ],
+
+    "imageButtons" :
+    [
+    ]
+}
